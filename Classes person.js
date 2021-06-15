@@ -15,7 +15,7 @@ let regnestykke1 = new potensregnerclass(2,2)
 
 console.log (regnestykke1)
 
-/*
+
 function potensregner (tal,potens){
 	return Math.pow (tal,potens);
 }
@@ -23,7 +23,7 @@ console.log (potensregner(2,2))
 console.log (potensregner(2,3))
 console.log (potensregner(2,4))
 console.log (potensregner(5,10))
-*/
+
 
 /*
 function potensregner (tal,potens){
